@@ -18,8 +18,8 @@
         </header>
         <nav>
             <a href="index.php">Trang chủ</a>
-            <a href="GioiThieu.php">Giới thiệu</a>
-            <a href="From.php">Thông tin khách hàng</a>
+            <a href="gioithieu.php">Giới thiệu</a>
+            <a href="form.php">Thông tin khách hàng</a>
             <a href="#">Liên hệ</a>
         </nav>
 <?php

@@ -17,12 +17,12 @@
             <img src="IMG/logo.jpg" alt="">
             <div class="khungdangnhap">
                 <a href="dangnhap.php">Đăng nhập</a>
-                <a href="#">Đăng kí</a>
+                <a href="register.php">Đăng kí</a>
             </div>
         </header>
         <nav>
             <a href="index.php">Trang chủ</a>
-            <a href="GioiThieu.php">Giới thiệu</a>
+            <a href="gioithieu.php">Giới thiệu</a>
             <a href="From.php">Thông tin khách hàng</a>
             <a href="tranglienhe.php">Liên hệ</a>
         </nav>
